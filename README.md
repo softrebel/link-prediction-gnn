@@ -1,8 +1,12 @@
 # پیش‌بینی پیوند با شبکه‌های عصبی گرافی LPGNN
 <div dir="rtl"> 
 در این پروژه، مدل‌های مختلف تعبیه‌سازی و شبکه‌های عصبی گرافی  را برای تسک پیش‌بینی پیوند(link prediction) بررسی می‌کنیم.
-
+در حال حاضر سه مدل زیر پیاده‌سازی شده است:
 </div>
+
+- [Node2Vec notebook](./using_node2vec.ipynb)
+- [GCN notebook](./using_gcn.ipynb)
+- [GraphSAGE notebook](./using_graphsage.ipynb)
 
 ## Requirements
 <div dir="rtl"> 
